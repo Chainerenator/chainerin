@@ -504,7 +504,7 @@ input, select, textarea {
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
-		color: #39454b;
+		color: #0b4c0a;
 		letter-spacing: 0.025em;
 	}
 
@@ -561,7 +561,7 @@ input, select, textarea {
 		}
 
 	h2 {
-		font-size: 2.25em;
+		font-size: 1.2em;
 		line-height: 1.25em;
 		letter-spacing: -0.05em;
 	}
@@ -569,7 +569,7 @@ input, select, textarea {
 	@media screen and (max-width: 736px) {
 
 		h2 {
-			font-size: 1.5em;
+			font-size: 1.2em;
 		}
 
 	}
@@ -622,7 +622,7 @@ input, select, textarea {
 
 	.box {
 		background: #ffffff;
-		color: #39454b;
+		color: #0b4c0a;
 		padding: 2em;
 	}
 
@@ -858,7 +858,7 @@ input, select, textarea {
 		-webkit-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		color: #39454b;
+		color: #0b4c0a;
 		display: block;
 		width: 100%;
 		padding: 0.65em 0.75em;
@@ -1204,7 +1204,7 @@ input, select, textarea {
 			}
 
 			table.default thead {
-				background: #39454b;
+				background: #0b4c0a;
 				color: #ffffff;
 			}
 
@@ -1942,7 +1942,7 @@ input, select, textarea {
 		}
 
 			.main.style1 h2 {
-				font-size: 4.25em;
+				font-size: 3.25em;
 				line-height: 1em;
 			}
 
@@ -2161,7 +2161,7 @@ input, select, textarea {
 		margin: 0;
 		line-height: 1em;
 		padding: 1.5em;
-		background: #39454b;
+		background: #0b4c0a;
 		color: rgba(185, 186, 187, 0.5);
 		overflow: hidden;
 	}
