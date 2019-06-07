@@ -200,12 +200,12 @@ table {
   font-style: normal; }
 ::selection {
   text-shadow: none;
-  background: #000000;
+  background: #491B11;
   color: #FFFFFF; }
 
 ::-moz-selection {
   text-shadow: none;
-  background: #000000;
+  background: #491B11;
   color: #FFFFFF; }
 
 html {
@@ -216,7 +216,7 @@ body {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   line-height: 1.4em;
-  background-color: #000000;
+  background-color: #491B11;
   text-align: center;
   color: #FFFFFF; }
 
